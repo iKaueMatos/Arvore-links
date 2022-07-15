@@ -1,0 +1,27 @@
+.perfil{
+    display: flex;
+    margin-top: 5em;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.perfil-kaue{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.kaue{
+    color: rgb(0, 229, 255);
+    font-weight: 600;
+    font-family:'Permanent Marker',cursive ;
+    margin-left:20px;
+}
+
+.email-kaue{
+    list-style: none;
+   
+}
