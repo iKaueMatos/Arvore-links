@@ -15,9 +15,9 @@
 }
 
 .kaue{
-    color: rgb(0, 229, 255);
+    color: rgb(0, 255, 179);
     font-weight: 600;
-    font-family:'Permanent Marker',cursive ;
+    font-family:'Permanent Marker', 'Ubuntu';
     margin-left:20px;
 }
 
