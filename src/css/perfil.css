@@ -1,9 +1,13 @@
+
+
+
 .perfil{
     display: flex;
     margin-top: 5em;
     padding: 20px;
     align-items: center;
     justify-content: center;
+    overflow-x: hidden;
     
 }
 
@@ -11,14 +15,17 @@
     border-radius: 50%;
     width: 100px;
     height: 100px;
+ 
     
 }
 
 .kaue{
-    color: rgb(0, 255, 179);
-    font-weight: 600;
+    color: rgb(0, 217, 255);
+    font-weight: 700;
     font-family:'Permanent Marker', 'Ubuntu',sans-serif;
     margin-left:20px;
+    text-shadow:5px solid #000;
+   
 }
 
 .email-kaue{

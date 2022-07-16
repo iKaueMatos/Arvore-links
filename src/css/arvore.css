@@ -1,13 +1,14 @@
 button{
     cursor:pointer;
-    border: 0;
-    border-radius: 5px;
-    background-color: rgb(0, 255, 179);
+    border:1px solid #000;
+    border-radius: 8px;
+    background-color: rgb(0, 217, 255);
     width: 200px;
     height: 100px;
-    font-size: 25px;
+    font-size: 28px;
     color:var(--btn);
     font-family: 'Permanent Marker','Ubuntu',sans-serif ;
+    font-weight:700;
     
     
 }
@@ -40,8 +41,11 @@ button:focus{
     align-items: center;
     flex-direction: column;
     padding-bottom:10px;
-    gap:15px
+    gap:15px;
+    
 }
+
+
 
 /*video*/
 
@@ -95,6 +99,11 @@ iframe{
         display:flex;
         align-items: center;
         margin-right:18px ;
+    }
+
+    ul .links{
+        width:50px;
+        overflow-x: hidden;
     }
 
 
