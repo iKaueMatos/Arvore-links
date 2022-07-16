@@ -7,7 +7,7 @@ button{
     height: 100px;
     font-size: 25px;
     color:var(--btn);
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker','Ubuntu',sans-serif ;
     
     
 }
