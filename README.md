@@ -3,22 +3,15 @@ Resumo do projeto:
 
 🔨 Funcionalidades do projeto: Projeot em desenvolvimento
 
-Funcionalidade 1:
 
-Funcionalidade 2:
-
-Funcionalidade 3:
-
-Funcionalidade 4:
-
-Funcionalidade 5:
+Funcionalidade :Compartilhamento de Links para redes sociais 
 
 
-✔️ Técnicas e tecnologias utilizadas:
+✔️ Técnicas e tecnologias utilizadas:HTML e CSS + Tecinicas de Flexbox
 
 
 
 
 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando aqui.
+Você pode acessar os arquivos do projeto clicando aqui:https://ikauematos.github.io/Arvore-links/
 
